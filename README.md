@@ -96,8 +96,11 @@ Detailed exploration of performance by demographic segments and campaign ID.
 ---
 
 ## 🖼️ Dashboard Preview
-*(Add screenshots or .pbix file link here)*
+### Page 1: Sales Overview
+![Campaign Performance Overview](dashboard3.png)
 
+### Page 2: Regional & Category Insights
+![Audience & Campaign Breakdown](dashboard4.png)
 ---
 
 ## 📌 Conclusion
